@@ -7,9 +7,6 @@ This Arduino project utilizes Ultrasonic Distance Sensor HC-SR04 to estimate dis
 - [Requirements](#requirements)
 - [Hardware Setup](#hardware-setup)
 - [Arduino Code](#arduino-code)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 To use this project, you'll need the following:
